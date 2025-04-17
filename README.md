@@ -1,10 +1,10 @@
-# 🩺 Injury Reporting Analysis (Excel Dashboard)
+#  Injury Reporting Analysis (Excel Dashboard)
 
 An interactive Excel dashboard designed to analyze injury incidents, costs, and trends across various locations and injury types. Built for HR and safety teams to drive data-informed decisions and improve workplace safety.
 
-## 🔧 Key Features
+##  Key Features
 
-- 📊 Visual analysis using PivotTables, charts, and slicers  
-- 📈 Track trends by shift, location, gender, and injury type  
-- 🧮 Advanced Excel functions (VLOOKUP, HLOOKUP, COUNTIF, SUMIF, TEXT) for data cleaning and analysis  
-- 📍 Location-based filtering for targeted insights
+-  Visual analysis using PivotTables, charts, and slicers  
+-  Track trends by shift, location, gender, and injury type  
+-  Advanced Excel functions (VLOOKUP, HLOOKUP, COUNTIF, SUMIF, TEXT) for data cleaning and analysis  
+-  Location-based filtering for targeted insights
